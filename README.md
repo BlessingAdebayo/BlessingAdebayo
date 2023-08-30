@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BlessingAdebayo
-- 👀 I’m interested in fulstack development 
-- 🌱 I’m currently learning frontend development 
-- 💞️ I’m looking to collaborate on website development and critical hacking 
+- I,m Blockchain Engineer, Web3 developer, provicient using Solidity to write Smart contracts, Developing the frontend using JavaScripts libraries like React, connecting to the blockchain using either ether js or web3 js, I'm a very relaible person, you count on me when it comes to getting thre job done.
 - 📫 How to reach me chat me on telegram it WhatsApp on 07025238787
 
 <!---
